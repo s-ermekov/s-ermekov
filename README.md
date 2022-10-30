@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @s-ermekov
 - 👀 I’m interested in iOS development
 - 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @sangeek (%) outlook ; com
 
 <!---

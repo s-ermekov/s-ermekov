@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @s-ermekov
 - 👀 I’m interested in iOS development
 - 🌱 I’m currently learning SwiftUI
-- 📫 How to reach me: @sangeek_ on twitter
+- 📫 How to reach me: @sanzhar_ermekov on twitter
 
 <!---
 s-ermekov/s-ermekov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

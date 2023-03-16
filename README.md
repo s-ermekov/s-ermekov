@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @s-ermekov
-- 👀 I’m interested in iOS development
-- 🌱 I’m currently learning SwiftUI
-- 📫 How to reach me: @sanzhar_ermekov on twitter
-
-<!---
-s-ermekov/s-ermekov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Sanzhar Ermekov.
+- 👀 Currently I am still working as an ophthalmologist.
+- 🌱 After workday I am studying iOS frameworks and design patterns, learning how to write clean code.
+- 📫 How to reach me: @sanzhar_ermekov on twitter, @sanzhar_ermekov on telegram
